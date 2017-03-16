@@ -1,0 +1,6 @@
+*.mp3
+*.zip
+*.iso
+pgdvd.iso.*
+*.rar
+*.ISO
